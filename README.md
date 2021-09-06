@@ -1,9 +1,9 @@
 ### Hi! I'm Rui Pinto 👋
 
 I'm an MSc Student in Informatics and Computing Engineering at FEUP.
-
+<a href="https://github.com/2dukes">
   <img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=2dukes&count_private=true&show_icons=true&theme=gotham" />
-
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="2dukes-Js" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="2dukes-NodeJS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">

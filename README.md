@@ -3,7 +3,7 @@
 I'm an MSc Student in Informatics and Computing Engineering at FEUP.
 <br>
 <a href="https://github.com/2dukes">
-  <img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=2dukes&count_private=true&show_icons=true&theme=gotham" />
+  <img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=2dukes&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="2dukes-Js" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

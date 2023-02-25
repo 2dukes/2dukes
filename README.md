@@ -1,6 +1,10 @@
 ### Hi! I'm Rui Pinto 👋
 
 I'm an MSc Student in Informatics and Computing Engineering at FEUP.
+
+My interests are mostly related to **Cybersecurity**, **DevOps** and **Blockchain**.
+
+Feel free to reach me anytime! 🙂
 <br>
 <a href="https://github.com/2dukes">
   <img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=2dukes&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />

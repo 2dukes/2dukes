@@ -1,8 +1,8 @@
 ### Hi! I'm Rui Pinto 👋
 
-I am a Software Engineer working at Nokia in Lisbon, Portugal.
+I am an Associate DevOps Engineer working at SAP in Lisbon, Portugal.
 
-My interests are mostly related to **Cybersecurity**, **DevOps & Cloud** and **Blockchain**.
+My interests revolve around **DevOps & Cloud technologies**, **Cybersecurity**, and **Blockchain**.
 
 Feel free to reach me anytime! 🙂
 <br>

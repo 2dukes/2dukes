@@ -1,6 +1,6 @@
 ### Hi! I'm Rui Pinto 👋
 
-I am an Associate DevOps Engineer working at SAP in Lisbon, Portugal.
+I am a Systems Development Engineer working at AWS in Dublin, Ireland.
 
 My interests revolve around **DevOps & Cloud technologies**, **Cybersecurity**, and **Blockchain**.
 

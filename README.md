@@ -7,7 +7,7 @@ My interests revolve around **DevOps & Cloud technologies**, **Cybersecurity**, 
 Feel free to reach me anytime! 🙂
 <br>
 <a href="https://github.com/2dukes">
-  <img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=2dukes&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />
+  <img align="right" width="43%" src="https://github-readme-stats-fast.vercel.app/api?username=2dukes&show_icons=true&theme=dark" />
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="2dukes-HTML" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
